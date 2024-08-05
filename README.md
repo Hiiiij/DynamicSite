@@ -1,1 +1,1 @@
-# DynamicSite for learning purpouse 
+# DynamicSite 
